@@ -1,7 +1,7 @@
-#**Connect to MySQL**
+**Connect to MySQL**
 
-    1. Open a terminal
-    2. Run `pip install mysql-connector-python` to install the mysql python connector
+1. Open a terminal
+2. Run `pip install mysql-connector-python` to install the mysql python connector
 
 #**Create a Databse**
 
